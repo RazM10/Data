@@ -2,8 +2,9 @@
     "versionCode": 1,
     "cancellable": false,
     "url": "http://tiny.cc/BuySellBD",
-    "story": [
-        {
+    "bookCover": "https://3.bp.blogspot.com/-TgPEqV2Lu-c/VzYHtniVI3I/AAAAAAAAAXY/WziCOcV9wsYsxrwZvGRzV3BjyvffdMoWACLcB/s320/Bangla-1.jpg",
+    "bookPdf": "https://drive.google.com/file/d/1IHingNjyeiM-zrFaSUbtO_vNPMsB8ba7/view",
+    "story": [{
             "adviseEnglish": "Look for your weakness",
             "adviseBangla": "তোমার দুর্বলতা খোঁজ",
             "nameEnglish": "your weakness is your strength",
